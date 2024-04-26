@@ -3,7 +3,6 @@ primerH1.innerText = "Adiós";
 
 document.querySelector("h1").style.color = 'orange';
 
-
 document.querySelectorAll(".azul").forEach(e => {
     e.addEventListener("click", () => {
 
